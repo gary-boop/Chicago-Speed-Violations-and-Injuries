@@ -32,9 +32,9 @@ Here is the list of top 10 places with highest injuries. The City officials shou
 
 **References:**
 
-* [Chicago Children Safety Zone Speed Violations - Tableau](https://github.com/gauravhassija/Chicago-Speed-Violations-and-Injuries/blob/master/Chicago%20Children%20Safety%20Zone%20speed%20violations.twbx)
+* [Chicago Children Safety Zone Speed Violations - Tableau](https://public.tableau.com/profile/gaurav.hassija8030#!/vizhome/ChicagoChildrenSafetyZonespeedviolations/Violationsbymonth?publish=yes)
 
-* [Chicago Speed Vilation Injuries - Tableau](https://github.com/gauravhassija/Chicago-Speed-Violations-and-Injuries/blob/master/Chicago%20speed%20violation%20injuries.twbx)
+* [Chicago Speed Vilation Injuries - Tableau](https://public.tableau.com/profile/gaurav.hassija8030#!/vizhome/Chicagospeedviolationinjuries/Injuries?publish=yes)
 
 * https://data.cityofchicago.org/Transportation/Traffic-Crashes-Crashes/85ca-t3if/data
 
