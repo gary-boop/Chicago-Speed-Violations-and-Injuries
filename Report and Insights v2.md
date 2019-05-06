@@ -30,13 +30,15 @@ This graph shows the Fatal and Incapacitating injuries against total injuries ca
 
 * *A new calculated column was created comprising of 'Fatal and Incapacitating injuries'. With the values in the 'Primary Contributory Cause', the purpose was to identify the number of fatal and incapacitating injuries caused by traffic crashes due to speed violations. The sum of 'Fatal and Incapacitating injuries' was used for the 'Label' field in Tableau to show the number against total injuries.*
 
-![Top10locations](https://github.com/gauravhassija/Chicago-Speed-Violations-and-Injuries/blob/master/chart3.JPG)
+![Top10locations](https://github.com/gauravhassija/Chicago-Speed-Violations-and-Injuries/blob/master/chart4.JPG)
 
 Here is the list of top 10 places with highest injuries. The City officials should plead with the Mayor to place automated safety cameras at these locations to reduce the number of injuries. Rules and regulations should be enforced at all times of the day.
 
 * *Information about the chart- By using a bar chart, we can see the list of locations where the injuries were highest. By showing it in a decreasing fashion, the number of injuries relative to other locations is shown which guides the Chicago City officials to identify locations for new safety cameras.*
 
 * *The data is filtered for 'Primary Contributory Cause and Crash Year'. The values for both the columns are same as the above chart.* 
+
+* *
 
 **References:**
 
