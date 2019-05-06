@@ -38,13 +38,18 @@ Here is the list of top 10 places with highest injuries. The City officials shou
 
 * *The data is filtered for 'Primary Contributory Cause and Crash Year'. The values for both the columns are same as the above chart* 
 
-* *The 'Address' column is a calculated column made by combining 'Street No., Street Direction and Street Name'
+* *The 'Address' column is a calculated column made by combining 'Street No., Street Direction and Street Name'*
 
-* *The color intensity denotes the number of 'Fatal and Incapacitating injuries' for those locations
+* *The color intensity denotes the number of 'Fatal and Incapacitating injuries' for those locations*
+
+**Revision History:**
+* Added information about the datasets used
+
+* Added information for all charts regarding columns used and their structure; the parameters used and the reasoning behind it
 
 **References:**
 
-* [Chicago Speed Violations and Injuries - Tableau](https://public.tableau.com/profile/gaurav.hassija8030#!/vizhome/ChicagoSpeedViolationsandInjuries/Violationsbymonth?publish=yes)
+* [Chicago Speed Violations and Injuries Revised - Tableau](https://public.tableau.com/profile/gaurav.hassija8030#!/vizhome/ChicagoSpeedViolationsandInjuries/Violationsbymonth?publish=yes)
 
 * https://data.cityofchicago.org/Transportation/Traffic-Crashes-Crashes/85ca-t3if/data
 
