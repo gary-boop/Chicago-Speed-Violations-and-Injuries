@@ -40,6 +40,8 @@ Here is the list of top 10 places with highest injuries. The City officials shou
 
 * *The 'Address' column is a calculated column made by combining 'Street No., Street Direction and Street Name'
 
+* *The color intensity denotes the number of 'Fatal and Incapacitating injuries' for those locations
+
 **References:**
 
 * [Chicago Speed Violations and Injuries - Tableau](https://public.tableau.com/profile/gaurav.hassija8030#!/vizhome/ChicagoSpeedViolationsandInjuries/Violationsbymonth?publish=yes)
