@@ -47,6 +47,8 @@ Here is the list of top 10 places with highest injuries. The City officials shou
 
 * Added information for all charts regarding columns used and their structure; the parameters used and the reasoning behind it
 
+* Changed the third chart; added information for 'Fatal and Incapacitating injuries'
+
 **References:**
 
 * [Chicago Speed Violations and Injuries Revised - Tableau](https://public.tableau.com/profile/gaurav.hassija8030#!/vizhome/ChicagoSpeedViolationsandInjuries/Violationsbymonth?publish=yes)
