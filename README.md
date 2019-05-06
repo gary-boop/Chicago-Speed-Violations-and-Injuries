@@ -12,7 +12,8 @@ City of Chicago enforced Children’s Safety Zone Program where enhanced signage
 
 The above chart shows the effect of installing automated safety cameras. The chart in orange show the number of speed violations per year. The program was started in 2014 and as we can see, the violations are reducing each year. This chart verifies the effectiveness of installing speed monitoring safety cameras.
 
-*[Information about the chart- By using an area chart, the trend is visible more clearly. The chart is across all months from 2015-2018 and by using this area chart, the decrease in number of violations is easy to interpret]*
+*[Datasets used for the purpose of this report comprised of Chicago [Speed Camera Violations](https://data.cityofchicago.org/Transportation/Speed-Camera-Violations/hhkd-xvj4) and Chicago [Traffic Crashes](https://data.cityofchicago.org/Transportation/Traffic-Crashes-Crashes/85ca-t3if/data). The datasets were joined using the Latitude column. Since the datasets are different, their join comprised of many null values.
+Information about the chart- By using an area chart, the trend is visible more clearly. The chart is across all months from 2015-2018 and by using this area chart, the decrease in number of violations is easy to interpret]*
 
 Even though it is evident that these cameras are effective, citizens of Chicago argue that they are unnecessarily being forced to pay fines for speed violations. Citizens argued that they were fined for violations committed outside of the Children’s Safety program time limits.
 
