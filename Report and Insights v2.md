@@ -24,11 +24,11 @@ A pedestrian hit by a car traveling 20 mph – the speed in a school zone – ha
 
 This graph shows the Fatal and Incapacitating injuries against total injuries caused due to over speeding. The injuries are increasing every year. If more speed monitoring cameras are installed, the effect seen by installing cameras in Children Safety zone program can be replicated. There will be a reduction in the number of violations thereby decreasing the number of injuries.
 
-*[Information about the chart- This area chart shows the increasing trend of number of injuries caused due to speed violations. By the usage of area chart, an urgency is created; appropriate steps should be taken to control this increasing number of injuries.
+* *[Information about the chart- This area chart shows the increasing trend of number of injuries caused due to speed violations. By the usage of area chart, an urgency is created; appropriate steps should be taken to control this increasing number of injuries.*
 
-*This chart shows information for number of injuries for years 2015-2018. The 'Primary Contributory Cause' column was used. The column consisted of many values for each crash caused. For the purpose of this report, the following causes were selected for analysis: DISREGARDING STOP SIGN, EXCEEDING AUTHORIZED SPEED LIMIT, EXCEEDING SAFE SPEED FOR CONDITIONS and FAILING TO REDUCE SPEED TO AVOID CRASH. The values were selected because they are linked with speed violations.* 
+* *This chart shows information for number of injuries for years 2015-2018. The 'Primary Contributory Cause' column was used. The column consisted of many values for each crash caused. For the purpose of this report, the following causes were selected for analysis: DISREGARDING STOP SIGN, EXCEEDING AUTHORIZED SPEED LIMIT, EXCEEDING SAFE SPEED FOR CONDITIONS and FAILING TO REDUCE SPEED TO AVOID CRASH. The values were selected because they are linked with speed violations.* 
 
-*A new calculated column was created comprising of 'Fatal and Incapacitating injuries'. With the values in the 'Primary Contributory Cause', the purpse was to identify the number of fatal and incapacitating injuries caused by traffic crashes due to speed violations. The sum of 'Fatal and Incapacitating injuries' was used for the 'Label' field in Tableau to show the number against total injuries.]*
+* *A new calculated column was created comprising of 'Fatal and Incapacitating injuries'. With the values in the 'Primary Contributory Cause', the purpse was to identify the number of fatal and incapacitating injuries caused by traffic crashes due to speed violations. The sum of 'Fatal and Incapacitating injuries' was used for the 'Label' field in Tableau to show the number against total injuries.]*
 
 ![Top10locations](https://github.com/gauravhassija/Chicago-Speed-Violations-and-Injuries/blob/master/chart3.JPG)
 
