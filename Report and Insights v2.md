@@ -34,11 +34,11 @@ This graph shows the Fatal and Incapacitating injuries against total injuries ca
 
 Here is the list of top 10 places with highest injuries. The City officials should plead with the Mayor to place automated safety cameras at these locations to reduce the number of injuries. Rules and regulations should be enforced at all times of the day.
 
-* *Information about the chart- By using a bar chart, we can see the list of locations where the injuries were highest. By showing it in a decreasing fashion, the number of injuries relative to other locations is shown which guides the Chicago City officials to identify locations for new safety cameras.*
+* *Information about the chart- By using a bar chart, we can see the list of locations where the injuries were highest. By showing it in a decreasing fashion, the number of injuries relative to other locations is shown which guides the Chicago City officials to identify locations for new safety cameras*
 
-* *The data is filtered for 'Primary Contributory Cause and Crash Year'. The values for both the columns are same as the above chart.* 
+* *The data is filtered for 'Primary Contributory Cause and Crash Year'. The values for both the columns are same as the above chart* 
 
-* *
+* *The 'Address' column is a calculated column made by combining 'Street No., Street Direction and Street Name'
 
 **References:**
 
